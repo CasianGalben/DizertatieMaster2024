@@ -1,0 +1,257 @@
+Titlu,Autor,An
+Introducere în Machine Learning,Aurélien Géron,2023
+Machine Learning,Kevin P. Murphy,2012
+Deep Learning,Ian Goodfellow,2016
+Elemente de Statistică pentru Machine Learning,David G. Stork,2014
+Machine Learning,Tom Mitchell,2021
+Hands-On Machine Learning with Scikit-Learn Keras & TensorFlow,Aurélien Géron,2017
+Reinforcement Learning,Richard S. Sutton,2018
+Natural Language Processing with Python,Edward Loper,2019
+Speech and Language Processing,James H. Martin,2008
+Computer Vision,David A. Forsyth,2011
+Inteligența Artificială,Mircea-Florin Vaida,2007
+Introducere în Invățarea Automată,Adrian-Mihail Ionescu,2013
+Prelucrarea Automată a Limbajului Natural,Daniel Ştefănescu,2014
+Deep Learning cu Python,Bogdan Vasilescu,2018
+Machine Learning,Mihai-Alexandru Țăpuș,2020
+Inteligența Artificială,Mircea-Florin Vaida,2021
+Machine Learning pentru Incepatori,Andrei-Alexandru Ene,2022
+Proiecte de Machine Learning cu TensorFlow,Andrei-Alexandru Ene,2023
+Reinforcement Learning pentru Incepatori,Andrei-Alexandru Ene,2023
+Prelucrarea Automată a Limbajului Natural cu Python,Andrei-Alexandru Ene,2023
+Machine Learning,Aurélien Géron,2023
+Deep Learning cu PyTorch,Thomas Viehmann,2023
+Reinforcement Learning cu OpenAI Gym,Andrew G. Barto,2023
+Prelucrarea Automată a Limbajului Natural cu spaCy,Sebastian Ruder,2023
+Computer Vision cu OpenCV,Gary Bradski,2023
+Invățarea Automată,Adrian-Mihail Ionescu,2014
+Algoritmi de Invățare Automată,Valentin-Florin Pătrașcu,2014
+Deep Learning pentru Prelucrarea Limbajului Natural,Daniel Ştefănescu,2018
+Machine Learning pentru Finanțe,Bogdan Vasilescu,2020
+Inteligența Artificială,Mircea-Florin Vaida,2022
+Machine Learning pentru Educație,Andrei-Alexandru Ene,2023
+Machine Learning pentru Robotică,Andrei-Alexandru Ene,2023
+Machine Learning pentru IoT,Andrei-Alexandru Ene,2023
+Machine Learning pentru Cybersecurity,Andrei-Alexandru Ene,2023
+Machine Learning pentru Recomandare,Bogdan Vasilescu,2023
+Machine Learning pentru Generarea de Text,Dan Tufiș,2023
+Machine Learning pentru Bioinformatică,Adrian-Mihail Ionescu,2023
+Machine Learning pentru Agricultură,Andrei-Alexandru Ene,2023
+The Hundred-page Machine Learning Machine,Andriy Burkov,2018
+A Survey on Transfer Learning,Pankaj Panwar,2018
+Self-Supervised Learning,Jingjing Li,2020
+An Overview of Explainable Artificial Intelligence (XAI),Christoph Molnar,2021
+The State of AI in 2023,Andrew Ng,2023
+Deep Learning for Coders with Python,Francois Chollet,2019
+Deep Reinforcement Learning,Sutton,2018
+Foundations of Machine Learning (2021),Mehryar Mohri,2021
+Gaussian Processes for Machine Learning (2006),Carl Edward Rasmussen,2006
+Generative Adversarial Networks (2017),Ian Goodfellow,2017
+Graph Neural Networks,Francesco Scarselli,2019
+Hidden Markov Models,Lawrence R. Rabiner,2009
+Information Theory,David J. C. MacKay,2003
+Introduction to Statistical Relational Learning (2014),Lise Getoor,2014
+Kernel Methods for Machine Learning (2004),John Shawe-Taylor,2004
+Large-Scale Machine Learning with Python (2019),AurÃ©lien GÃ©ron,2019
+Learning Bayesian Networks (2008),Richard E. Neapolitan,2008
+Machine Learning,Kevin P. Murphy,2012
+Machine Learning for Language Processing (2018),Jurafsky,2018
+Machine Learning for Signal Processing (2022),Ian Goodfellow,2022
+Machine Learning,T. Hastie,2019
+Neural Networks and Deep Learning (2018),Charu C. Aggarwal,2018
+Pattern Recognition and Machine Learning (2006),Christopher M. Bishop,2006
+Principles of Data Mining (2011),Michael J. A. Berry,2011
+Reinforcement Learning,Sutton,2018
+Sequential Monte Carlo Methods in Practice (2001),Pierre Del Moral,2001
+Statistical Learning with Sparsity (2019),Trevor Hastie,2019
+Support Vector Machines (2005),Nello Cristianini,2005
+The Elements of Statistical Learning (2001),Trevor Hastie,2001
+The Nature of Statistical Learning Theory (1998),Vladimir Vapnik,1998
+Time Series Analysis,James D. Hamilton,2008
+Unsupervised Learning (2009),Arthur B.,2009
+Reinforcement Learning with Tensorflow (2018),L. Piot,2018
+Probabilistic Machine Learning,Kevin P. Murphy,2022
+Bayesian Methods for Hackers,Cameron Davidson-Pilon,2014
+Convex Optimization (2004),Stephen Boyd,2004
+Deep Learning for Coders with Python (2019),Francois Chollet,2019
+Fundamentals of Machine Learning for Predictive Data Analytics (2011),John D. Kelleher,2011
+Introduction to Machine Learning (4th Edition) (2021),Alexander A. Galstyan,2021
+Machine Learning,Vladimir Vapnik,2020
+Machine Learning Yearning (2nd Edition) (2022),Andrew Ng,2022
+Natural Language Processing with Python (3rd Edition) (2020),Steven Bird,2020
+Speech and Language Processing (3rd Edition) (2019),Daniel Jurafsky,2019
+The Elements of Statistical Learning (2nd Edition) (2009),Trevor Hastie,2009
+The Nature of Statistical Learning Theory (4th Edition) (2013),Vladimir Vapnik,2013
+Bandit Algorithms for Online Optimization (2018),Tor Lattimore,2018
+Bayesian Reasoning and Machine Learning (2011),David Barber,2011
+Causal Inference,Judea Pearl,2020
+Deep Reinforcement Learning,Sutton,2018
+Foundations of Machine Learning (2021),Mehryar Mohri,2021
+Gaussian Processes for Machine Learning (2006),Carl Edward Rasmussen,2006
+Generative Adversarial Networks (2017),Ian Goodfellow,2017
+Graph Neural Networks,Francesco Scarselli,2019
+Hidden Markov Models,Lawrence R. Rabiner,2009
+Information Theory,David J. C. MacKay,2003
+Introduction to Statistical Relational Learning (2014),Lise Getoor,2014
+Kernel Methods for Machine Learning (2004),John Shawe-Taylor,2004
+Large-Scale Machine Learning with Python (2019),AurÃ©lien GÃ©ron,2019
+Learning Bayesian Networks (2008),Richard E. Neapolitan,2008
+Machine Learning,Kevin P. Murphy,2012
+Machine Learning for Language Processing (2018),Jurafsky,2018
+Machine Learning for Signal Processing (2022),Ian Goodfellow,2022
+Machine Learning,T. Hastie,2019
+Neural Networks and Deep Learning (2018),Charu C. Aggarwal,2018
+Mechanics and Control,John J. Craig,2023
+Machine Learning,Kevin P. Murphy,2021
+Fundamentals of Electric Circuits,Charles K. Alexander,2022
+Deep Learning,Ian Goodfellow,2024
+Computer Networking,James F. Kurose,2023
+Artificial Intelligence,Stuart Russell,2022
+Digital Image Processing,Rafael C. Gonzalez,2021
+Data Mining,Jiawei Han,2024
+Introduction to Algorithms,Thomas H. Cormen,2023
+Control Systems Engineering,Norman S. Nise,2022
+Computer Organization and Design,David A. Patterson,2021
+Fundamentals of Power Electronics,Robert W. Erickson,2023
+Operating System Concepts,Abraham Silberschatz,2024
+Principles of Communications Systems Modulation and Noise,Rodger E. Ziemer,2021
+Introduction to Mechatronics and Measurement Systems,David G. Alciatore,2022
+An Introduction to Thermal Physics,Daniel V. Schroeder,2023
+Principles of Electric Machines and Power Electronics,P.C. Sen,2024
+Microelectronic Circuits,Adel S. Sedra,2021
+Embedded Systems,Jonathan W. Valvano,2022
+Fundamentals of Fluid Mechanics,Bruce R. Munson,2023
+Pattern Recognition and Machine Learning,Christopher M. Bishop,2024
+Digital Signal Processing,John G. Proakis,2021
+Engineering Mechanics,J.L. Meriam,2022
+Modern Digital and Analog Communication Systems,B.P. Lathi,2023
+Fundamentals of Electric Power Engineering,Massimo Ceraolo,2024
+Design of Machinery,Robert L. Norton,2021
+Introduction to Materials Science for Engineers,James F. Shackelford,2022
+Engineering Electromagnetics,William H. Hayt Jr.,2023
+Analog Integrated Circuit Design,Tony Chan Carusone,2024
+Engineering Vibration,Daniel J. Inman,2021
+Probability and Stochastic Processes,Roy D. Yates,2022
+Fundamentals of Semiconductor Devices,Betty Lise Anderson,2023
+Introduction to Control Engineering Modeling,Ajit K. Mandal,2024
+Engineering Mechanics,J.L. Meriam,2021
+Communication Systems,Simon Haykin,2022
+Electronic Devices and Circuit Theory,Robert L. Boylestad,2023
+Introduction to Finite Element Analysis Using SolidWorks Simulation,Randy Shih,2024
+Feedback Control of Dynamic Systems,Gene F. Franklin,2021
+Advanced Engineering Mathematics,Peter V. O'Neil,2022
+Optical Fiber Communications,Gerd Keiser,2023
+Electrical Engineering,Allan R. Hambley,2024
+Process Dynamics and Control,Dale E. Seborg,2021
+Digital Systems,Ronald J. Tocci,2022
+Modern Control Engineering,Katsuhiko Ogata,2023
+Mechanics of Materials,Russell C. Hibbeler,2024
+Electric Machinery Fundamentals,Stephen J. Chapman,2021
+Digital Design,John F. Wakerly,2022
+Power System Analysis and Design,J. Duncan Glover,2023
+Introduction to Robotics,Saeed B. Niku,2024
+Linear Systems and Signals,B.P. Lathi,2021
+Mechatronics,Godfrey C. Onwubolu,2022
+Fundamentals of Telecommunications,Roger L. Freeman,2023
+Engineering Economic Analysis,Donald G. Newnan,2024
+Digital Control System Analysis and Design,Charles L. Phillips,2021
+Fundamentals of Modern Manufacturing,Mikell P. Groover,2022
+Introduction to Quantum Mechanics,David J. Griffiths,2023
+Antenna Theory,Constantine A. Balanis,2024
+Chemical Engineering Thermodynamics,J.M. Smith,2021
+Robotics,Bruno Siciliano,2022
+Analog and Digital Communication Systems,Martin S.,2017
+Fundamentals of Modern Electrical Engineering,Giorgio Rizzoni,2021
+Mechanical Engineering Design,Joseph E. Shigley,2022
+Introduction to Chemical Engineering,Kenneth A. Solen,2023
+Biomedical Engineering,W. Mark Saltzman,2024
+Introduction to Computer Numerical Control,James V. Valentino,2021
+Materials Science and Engineering,William D. Callister Jr.,2022
+An Introduction to Geotechnical Engineering,Robert D. Holtz,2023
+Principles of Environmental Engineering and Science,Mackenzie L. Davis,2024
+Introduction to Aerospace Engineering with a Flight Test Perspective,Stephen Corda,2021
+Industrial Engineering and Management,Averill M. Law,2022
+Chemical Process Safety,Daniel A. Crowl,2023
+Civil Engineering Materials,Shan Somayaji,2024
+Introduction to Nuclear Engineering,John R. Lamarsh,2021
+Structural Analysis,Russell C. Hibbeler,2022
+Introduction to Petroleum Engineering,John R. Fanchi,2023
+Fundamentals of Construction Management,Abimbola Windapo,2024
+Introduction to Biomedical Engineering,John Enderle,2021
+Industrial Robotics,Harry Asada,2022
+Fundamentals of Heat and Mass Transfer,Theodore L. Bergman,2023
+Introduction to Electrical Engineering,Mulukutla S. Sarma,2024
+Introduction to Operations Research,Frederick S. Hillier,2021
+Transport Processes and Separation Process Principles,Christie John Geankoplis,2022
+Introduction to Sustainable Engineering,David R. Shonnard,2023
+Biomechanics,Donald R. Peterson,2024
+Introduction to Systems Engineering,Norman S. Nise,2021
+Robotics,Peter Corke,2022
+Introduction to Mining Engineering,Hartman,2023
+Geotechnical Engineering,Donald P. Coduto,2024
+Engineering Economic Analysis,Donald G. Newnan,2021
+Introduction to Aircraft Structural Analysis,T.H.G. Megson,2022
+Water Resources Engineering,David A. Chin,2023
+Introduction to Industrial Engineering,Jane M. Fraser,2024
+Introduction to Environmental Engineering,Mackenzie Leo Davis,2021
+Advanced Mechanics of Materials and Applied Elasticity,Ansel C. Ugural,2022
+Engineering Design,George E. Dieter,2023
+Introduction to Electronic Circuits,Richard C. Dorf,2024
+Introduction to Sustainable Infrastructure Engineering,Kristina J. Thomsen,2021
+Principles of Geotechnical Engineering,Braja M. Das,2022
+Introduction to Systems Engineering,Norman S. Nise,2023
+Engineering Project Management for Manufacturing,James P. Harrington,2018
+Project Management for Engineers,Mark A. Smeltzer,2014
+The Manager's Path,Camille Fournier,2016
+Callister's Materials Science and Engineering,William D. Callister Jr. și David G. Rethwisch,2020
+Introduction to Materials Science for Engineers,William D. Callister Jr. și David G. Rethwisch,2021
+Materials Science and Engineering,William D. Callister Jr. și David G. Rethwisch,2015
+Introduction to Robotics Mechanics and Control,John J. Craig,2005
+Robotics,Bruno Siciliano,2019
+Modern Robotics,Kevin M. Lynch and Frank C. Park,2009
+Environmental Engineering,Howard S. Peavy,2015
+Introduction to Environmental Engineering,Mackenzie Davis and Frederick L. Warner,2009
+Principles of Environmental Engineering and Science,Mackenzie Davis and Frederick L. Warner,2014
+Introduction to Bioengineering,David R. Larson,2012
+Biomedical Engineering Fundamentals,Susannah Lauckner Eskandari,2012
+Essentials of Biomedical Engineering,Richard B. Northrop,2014
+Introduction to Optics,Francis A. Jenkins și Edward M. White,2020
+Modern Optical Engineering,Warren J. Smith,2009
+Handbook of Optics,Michael Bass,2010
+Nuclear Reactor Safety,Charles D. Morgan,2009
+Nuclear Reactor Engineering,Glenn R. Keep,2021
+Fundamentals of Nuclear Reactor Physics,Elmer E. Lewis,2017
+Orbital Mechanics for Engineering Students,Howard D. Curtis,2013
+Introduction to Flight,Arthur W. Lieske,2015
+Fundamentals of Astrodynamics and Applications,David A. Vallado,2013
+Power System Analysis and Design,J. Duncan Glover,2018
+Electric Power Systems,Leonard L. Grigsby,2012
+Power System Protection and Switchgear,J. C. Das,2017
+Mechanism Design,Arthur G. Erdman and Richard S. Norton,2007
+Machine Design,Robert L. Norton,2014
+Shigley's Mechanical Engineering Design,Richard G. Budynas și J. Keith Nisbett,2019
+Tehnica Tensiunilor Înalte,Vasile Manoliu,1994
+Sisteme Electrice de Putere,colectivul catedrei de Mașini Electrice a Universității Politehnica din București,2008
+Energii Regenerabile. Tehnologii și Sisteme,Ioan Făgăraș,2018
+Mecanisme,Radu Câmpeanu,1983
+Rezistența Materialelor,Dan Bălan,2005
+Proiectarea Asistată de Calculator în Tehnologia Mașinilor,Virgil Măgureanu,2011
+Calculul Structurilor,Dimitrie Gh. Ionescu,2002
+Tehnologia Betonului,Gheorghe Bob,2010
+Instalații pentru Clădiri,Ioan Drăgoi,2013
+Operații Unitare în Industria Chimică,colectivul catedrei de Tehnologia Chimică Anorganică a Universității Politehnica din București,1982
+Procese și Aparate Chimice,Nicolae Iovu,1998
+Tehnologia Polimerilor,Maria Bruma,2005
+Limbaje de Programare,Mircea Ionescu,1999
+Structuri de Date și Algoritmi,Mihai Codoban,2002
+Inteligență Artificială,Ioan-Aurel Baniță,2018
+Calculul Matematic al Circuitelor Electrice,Prof. Univ. Dr. Ing. Ioan Boldea,2007
+Optimizarea Sistemelor Energetice,Prof. Univ. Dr. Ing. Mircea Eremia,2012
+Sisteme de Control Distribuite,Prof. Univ. Dr. Ing. Dan Popescu,2015
+Inteligență Artificială,Prof. Univ. Dr. Ing. Nicolae Țăpuș,2018
+Roboți Mobili,Prof. Univ. Dr. Ing. Radu-Emil Precup,2010
+Proiectarea și Implementarea Sistemelor Integrate,Prof. Univ. Dr. Ing. Dorel Lazăr,2014
+Mecanica Fluidelor și Tehnologia Hidraulică,Prof. Univ. Dr. Ing. Constantin Bălan,2007
+Rezistența Materialelor,Prof. Univ. Dr. Ing. Dan Bălan,2005
+Tehnica Măsurărilor Electrice și Electronice,Prof. Univ. Dr. Ing. Mircea Petrișor,2017
+Bazele Teoretice ale Electrotehnicii,Prof. Univ. Dr. Ing. Gheorghe Popescu,2011

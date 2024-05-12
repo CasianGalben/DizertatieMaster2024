@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Utilizator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Profil Utilizator</h1>
+    </header>
+    <main>
+        <form action="{{ url_for('main.update_profile') }}" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="first_name">Prenume:</label>
+                <input type="text" id="first_name" name="first_name" value="{{ user.first_name }}" required>
+            </div>
+            <div class="form-group">
+                <label for="last_name">Nume:</label>
+                <input type="text" id="last_name" name="last_name" value="{{ user.last_name }}" required>
+            </div>
+            <div class="form-group">
+                <label for="faculty">Facultate:</label>
+                <input type="text" id="faculty" name="faculty" value="{{ user.faculty }}" required>
+            </div>
+            <div class="form-group">
+                <label for="year">Anul:</label>
+                <input type="number" id="year" name="year" value="{{ user.year }}" required>
+            </div>
+            <div class="form-group">
+                <label for="gender">Sex:</label>
+                <select id="gender" name="gender" required>
+                    <option value="Male" {{ 'selected' if user.gender == 'Male' else '' }}>Masculin</option>
+                    <option value="Female" {{ 'selected' if user.gender == 'Female' else '' }}>Feminin</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="profile_picture">Poza de profil (opțional):</label>
+                <input type="file" id="profile_picture" name="profile_picture">
+            </div>
+
+        </form>
+    </main>
+    <footer>
+        <p>Drepturi de autor © {{ current_year }} Galben Casian-Petrică</p>
+    </footer>
+    <script>
+        document.querySelector('footer p').textContent = `Drepturi de autor © ${new Date().getFullYear()} Galben Casian-Petrică`;
+    </script>
+</body>
+</html>

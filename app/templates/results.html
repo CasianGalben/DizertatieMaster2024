@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rezultate Model Naive Bayes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .results-container, .button-container {
+            background-color: white;
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        pre {
+            background-color: #eee;
+            padding: 10px;
+            border-radius: 5px;
+            font-family: monospace;
+        }
+
+        p, a {
+            font-size: 16px;
+            display: block;
+            margin: 10px 0;
+        }
+
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        h2 {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Rezultatele Antrenării Modelului Naive Bayes</h1>
+    {% if results %}
+    <div class="results-container">
+        <p><strong>Accuracy:</strong> {{ results['Accuracy'] }}</p>
+        <p><strong>Best CV Score:</strong> {{ results['Best CV Score'] }}</p>
+        <div>
+            <h2>Confusion Matrix</h2>
+            <pre>{{ results['Confusion Matrix'] | tojson | safe }}</pre>
+        </div>
+        <div>
+            <h2>Classification Report</h2>
+            <pre>{{ results['Classification Report'] }}</pre>
+        </div>
+        <a href="{{ url_for('naive_bayes.download_model', filename=results['Model File']) }}">Descarcă Modelul Antrenat</a>
+    </div>
+    {% else %}
+    <p>No results to display.</p>
+    {% endif %}
+    <div class="button-container">
+        <a href="{{ url_for('main.home') }}">Înapoi la pagina principală</a>
+    </div>
+</body>
+</html>

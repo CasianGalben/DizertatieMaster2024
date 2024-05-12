@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ carte.titlu }}</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f4f9ff;
+            color: #333;
+        }
+        header, footer, form {
+            margin: 20px auto;
+            width: 80%;
+            text-align: center;
+        }
+        h1, h2, h3 {
+            color: #0056b3; 
+        }
+        p {
+            font-size: 18px;
+        }
+        .comentariu {
+            background: #ffffff;
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin-top: 10px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        textarea {
+            width: 75%;
+            height: 100px;
+            margin-top: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+        button {
+            background-color: #ff7f50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+        button:hover {
+            background-color: #ff6347;
+        }
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            color: #0056b3;
+            font-size: 16px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>{{ carte.titlu }}</h1>
+        <p>Autor: {{ carte.autor }}</p>
+        <p>Anul publicării: {{ carte.an }}</p>
+    </header>
+
+    <section>
+        <h2>Comentarii</h2>
+        {% for comentariu in comentarii %}
+        <div class="comentariu">
+            <p>{{ comentariu.continut }}</p>
+            <form action="{{ url_for('main.detalii_carte', id_carte=carte.id) }}" method="post">
+                <button type="submit" name="action" value="Sterge:{{ comentariu.id }}">Șterge comentariu</button>
+            </form>
+        </div>
+        {% else %}
+        <p>Nu există comentarii pentru această carte.</p>
+        {% endfor %}
+    </section>
+
+    <form action="{{ url_for('main.detalii_carte', id_carte=carte.id) }}" method="post">
+        <h3>Adaugă un comentariu:</h3>
+        <textarea name="continut" required></textarea>
+        <button type="submit" name="action" value="Adauga">Postează comentariu</button>
+    </form>
+
+    <footer>
+        <a href="{{ url_for('main.show_carti') }}">Înapoi la lista de cărți</a>
+    </footer>
+</body>
+</html>

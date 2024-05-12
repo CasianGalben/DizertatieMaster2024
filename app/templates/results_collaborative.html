@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rezultate Collaborative Filtering</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #fff;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        nav {
+            background-color: #ff8c00;
+            color: #fff;
+            padding: 10px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            align-items: center;
+        }
+        nav ul li {
+            margin-left: 20px;
+        }
+        nav ul li a {
+            color: #000;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav ul li a:hover {
+            text-decoration: underline;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        .results-container, .graphics-container, .button-container {
+            background-color: white;
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        .brand {
+            font-size: 24px;
+            font-weight: bold;
+            color: #000;
+            margin-right: auto;
+        }
+
+        .graphics-container img {
+            width: 100%;
+            max-width: 400px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        .button-container {
+            text-align: center;
+        }
+
+        a.button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        a.button:hover {
+            background-color: #0056b3;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 40px;
+        }
+        pre {
+            background-color: #eee;
+            padding: 10px;
+            border-radius: 5px;
+            font-family: monospace;
+        }
+
+        p, a {
+            font-size: 16px;
+            display: block;
+            margin: 10px 0;
+        }
+
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        h2 {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="brand">SudVestAcademy</div>
+        <ul>
+            <li><a href="{{ url_for('main.bun_venit') }}">Conectare</a></li>
+            <li><a href="{{ url_for('main.update_profile') }}">Înregistrare</a></li>
+        </ul>
+    </nav>
+
+    <header>
+        <h1>Rezultate Collaborative Filtering</h1>
+    </header>
+
+    <div class="results-container">
+        <h2>Evaluare Model</h2>
+        <pre>{{ evaluation_results | tojson(indent=2) }}</pre>
+    </div>
+
+    <div class="graphics-container">
+        <h2>Grafice</h2>       
+        <img src="{{ url_for('static', filename='correlation_matrix.png') }}" alt="Correlation Matrix">    
+        <img src="{{ url_for('static', filename='per_column_distribution.png') }}" alt="Per Column Distribution">   
+        <img src="{{ url_for('static', filename='scatter_matrix.png') }}" alt="Scatter Matrix">
+    </div>
+    
+    <div class="button-container">
+        <a href="{{ url_for('main.download_collaborative_model', filename='collaborative_filtering.pkl') }}">Descarcă Modelul Antrenat</a>
+        </div>
+
+    <div class="button-container">
+        <a href="{{ url_for('main.home') }}" class="button">Înapoi la pagina principală</a>
+    </div>
+    
+    <footer>
+        <p>Drepturi de autor © {{ current_year }} Galben Casian-Petrică</p>
+    </footer>
+</body>
+</html>

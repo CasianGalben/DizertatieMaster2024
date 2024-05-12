@@ -1,0 +1,256 @@
+Titlu: Introducere în Machine Learning, Autor: Aurélien Géron, An: 2023
+Titlu: Machine Learning: O Abordare Probabilistică , Autor: Kevin P. Murphy, An: 2012
+Titlu: Deep Learning, Autor: Ian Goodfellow, An: 2016
+Titlu: Elemente de Statistică pentru Machine Learning, Autor: David G. Stork, An: 2014
+Titlu: Machine Learning: Un Ghid Practic, Autor: Tom Mitchell, An: 2021
+Titlu: Hands-On Machine Learning with Scikit-Learn Keras & TensorFlow, Autor: Aurélien Géron, An: 2017
+Titlu: Reinforcement Learning: An Introduction, Autor: Richard S. Sutton, An: 2018
+Titlu: Natural Language Processing with Python, Autor: Edward Loper, An: 2019
+Titlu: Speech and Language Processing, Autor: James H. Martin, An: 2008
+Titlu: Computer Vision: A Modern Approach, Autor: David A. Forsyth, An: 2011
+Titlu: Inteligența Artificială: Principii și Aplicării, Autor: Mircea-Florin Vaida, An: 2007
+Titlu: Introducere în Invățarea Automată, Autor: Adrian-Mihail Ionescu, An: 2013
+Titlu: Prelucrarea Automată a Limbajului Natural, Autor: Daniel Ştefănescu, An: 2014
+Titlu: Deep Learning cu Python, Autor: Bogdan Vasilescu, An: 2018
+Titlu: Machine Learning: Teorie și Practică, Autor: Mihai-Alexandru Țăpuș, An: 2020
+Titlu: Inteligența Artificială: De la Perceptron la Deep Learning, Autor: Mircea-Florin Vaida, An: 2021
+Titlu: Machine Learning pentru Incepatori, Autor: Andrei-Alexandru Ene, An: 2022
+Titlu: Proiecte de Machine Learning cu TensorFlow, Autor: Andrei-Alexandru Ene, An: 2023
+Titlu: Reinforcement Learning pentru Incepatori, Autor: Andrei-Alexandru Ene, An: 2023
+Titlu: Prelucrarea Automată a Limbajului Natural cu Python, Autor: Andrei-Alexandru Ene, An: 2023
+Titlu: Machine Learning: O Abordare Practică cu TensorFlow, Autor: Aurélien Géron, An: 2023
+Titlu: Deep Learning cu PyTorch, Autor: Thomas Viehmann, An: 2023
+Titlu: Reinforcement Learning cu OpenAI Gym, Autor: Andrew G. Barto, An: 2023
+Titlu: Prelucrarea Automată a Limbajului Natural cu spaCy, Autor: Sebastian Ruder, An: 2023
+Titlu: Computer Vision cu OpenCV, Autor: Gary Bradski, An: 2023
+Titlu: Invățarea Automată: Teorie și Implementare , Autor: Adrian-Mihail Ionescu, An: 2014
+Titlu: Algoritmi de Invățare Automată, Autor: Valentin-Florin Pătrașcu, An: 2014
+Titlu: Deep Learning pentru Prelucrarea Limbajului Natural, Autor: Daniel Ştefănescu, An: 2018
+Titlu: Machine Learning pentru Finanțe, Autor: Bogdan Vasilescu, An: 2020
+Titlu: Inteligența Artificială: Provocări și Oportunități pentru România, Autor: Mircea-Florin Vaida, An: 2022
+Titlu: Machine Learning pentru Educație, Autor: Andrei-Alexandru Ene, An: 2023
+Titlu: Machine Learning pentru Robotică, Autor: Andrei-Alexandru Ene, An: 2023
+Titlu: Machine Learning pentru IoT, Autor: Andrei-Alexandru Ene, An: 2023
+Titlu: Machine Learning pentru Cybersecurity, Autor: Andrei-Alexandru Ene, An: 2023
+Titlu: Machine Learning pentru Recomandare, Autor: Bogdan Vasilescu, An: 2023
+Titlu: Machine Learning pentru Generarea de Text, Autor: Dan Tufiș, An: 2023
+Titlu: Machine Learning pentru Bioinformatică, Autor: Adrian-Mihail Ionescu, An: 2023
+Titlu: Machine Learning pentru Agricultură, Autor: Andrei-Alexandru Ene, An: 2023
+Titlu: The Hundred-page Machine Learning Machine, Autor: Andriy Burkov, An: 2018
+Titlu: A Survey on Transfer Learning, Autor: Pankaj Panwar, An: 2018
+Titlu: Self-Supervised Learning: A Survey of Recent Advances, Autor: Jingjing Li, An: 2020
+Titlu: An Overview of Explainable Artificial Intelligence (XAI), Autor: Christoph Molnar, An: 2021
+Titlu: The State of AI in 2023, Autor: Andrew Ng, An: 2023
+Titlu: Deep Learning for Coders with Python, Autor: Francois Chollet, An: 2019
+Titlu: Deep Reinforcement Learning: An Introduction (2018), Autori: Sutton, An: 2018
+Titlu: Foundations of Machine Learning (2021), Autori: Mehryar Mohri, An: 2021
+Titlu: Gaussian Processes for Machine Learning (2006), Autori: Carl Edward Rasmussen, An: 2006
+Titlu: Generative Adversarial Networks (2017), Autori: Ian Goodfellow, An: 2017
+Titlu: Graph Neural Networks: A Review of Methods and Applications (2019), Autori: Francesco Scarselli, An: 2019
+Titlu: Hidden Markov Models: Theory and Applications (2009), Autori: Lawrence R. Rabiner, An: 2009
+Titlu: Information Theory Inference and Learning Algorithms (2003), Autori: David J. C. MacKay, An: 2003
+Titlu: Introduction to Statistical Relational Learning (2014), Autori: Lise Getoor, An: 2014
+Titlu: Kernel Methods for Machine Learning (2004), Autori: John Shawe-Taylor, An: 2004
+Titlu: Large-Scale Machine Learning with Python (2019), Autori: AurÃ©lien GÃ©ron, An: 2019
+Titlu: Learning Bayesian Networks (2008), Autori: Richard E. Neapolitan, An: 2008
+Titlu: Machine Learning: A Probabilistic Perspective (2012), Autori: Kevin P. Murphy, An: 2012
+Titlu: Machine Learning for Language Processing (2018), Autori: Jurafsky, An: 2018
+Titlu: Machine Learning for Signal Processing (2022), Autori: Ian Goodfellow, An: 2022
+Titlu: Machine Learning: A Theoretical Approach (2019), Autori: T. Hastie, An: 2019
+Titlu: Neural Networks and Deep Learning (2018), Autori: Charu C. Aggarwal, An: 2018
+Titlu: Pattern Recognition and Machine Learning (2006), Autori: Christopher M. Bishop, An: 2006
+Titlu: Principles of Data Mining (2011), Autori: Michael J. A. Berry, An: 2011
+Titlu: Reinforcement Learning: An Introduction (2018), Autori: Sutton, An: 2018
+Titlu: Sequential Monte Carlo Methods in Practice (2001), Autori: Pierre Del Moral, An: 2001
+Titlu: Statistical Learning with Sparsity (2019), Autori: Trevor Hastie, An: 2019
+Titlu: Support Vector Machines (2005), Autori: Nello Cristianini, An: 2005
+Titlu: The Elements of Statistical Learning (2001), Autori: Trevor Hastie, An: 2001
+Titlu: The Nature of Statistical Learning Theory (1998), Autori: Vladimir Vapnik, An: 1998
+Titlu: Time Series Analysis: Forecasting and Control (2008), Autori: James D. Hamilton, An: 2008
+Titlu: Unsupervised Learning (2009), Autori: Arthur B., An: 2009
+Titlu: Reinforcement Learning with Tensorflow (2018), Autori: L. Piot, An: 2018
+Titlu: Probabilistic Machine Learning: An Introduction (2022), Autori: Kevin P. Murphy, An: 2022
+Titlu: Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference (2014), Autori: Cameron Davidson-Pilon, An: 2014
+Titlu: Convex Optimization (2004), Autori: Stephen Boyd, An: 2004
+Titlu: Deep Learning for Coders with Python (2019), Autori: Francois Chollet, An: 2019
+Titlu: Fundamentals of Machine Learning for Predictive Data Analytics (2011), Autori: John D. Kelleher, An: 2011
+Titlu: Introduction to Machine Learning (4th Edition) (2021), Autori: Alexander A. Galstyan, An: 2021
+Titlu: Machine Learning: A Gentle Introduction (3rd Edition) (2020), Autori: Vladimir Vapnik, An: 2020
+Titlu: Machine Learning Yearning (2nd Edition) (2022), Autori: Andrew Ng, An: 2022
+Titlu: Natural Language Processing with Python (3rd Edition) (2020), Autori: Steven Bird, An: 2020
+Titlu: Speech and Language Processing (3rd Edition) (2019), Autori: Daniel Jurafsky, An: 2019
+Titlu: The Elements of Statistical Learning (2nd Edition) (2009), Autori: Trevor Hastie, An: 2009
+Titlu: The Nature of Statistical Learning Theory (4th Edition) (2013), Autori: Vladimir Vapnik, An: 2013
+Titlu: Bandit Algorithms for Online Optimization (2018), Autori: Tor Lattimore, An: 2018
+Titlu: Bayesian Reasoning and Machine Learning (2011), Autori: David Barber, An: 2011
+Titlu: Causal Inference: A Primer (2020), Autori: Judea Pearl, An: 2020
+Titlu: Deep Reinforcement Learning: An Introduction (2018), Autori: Sutton, An: 2018
+Titlu: Foundations of Machine Learning (2021), Autori: Mehryar Mohri, An: 2021
+Titlu: Gaussian Processes for Machine Learning (2006), Autori: Carl Edward Rasmussen, An: 2006
+Titlu: Generative Adversarial Networks (2017), Autori: Ian Goodfellow, An: 2017
+Titlu: Graph Neural Networks: A Review of Methods and Applications (2019), Autori: Francesco Scarselli, An: 2019
+Titlu: Hidden Markov Models: Theory and Applications (2009), Autori: Lawrence R. Rabiner, An: 2009
+Titlu: Information Theory Inference and Learning Algorithms (2003), Autori: David J. C. MacKay, An: 2003
+Titlu: Introduction to Statistical Relational Learning (2014), Autori: Lise Getoor, An: 2014
+Titlu: Kernel Methods for Machine Learning (2004), Autori: John Shawe-Taylor, An: 2004
+Titlu: Large-Scale Machine Learning with Python (2019), Autori: AurÃ©lien GÃ©ron, An: 2019
+Titlu: Learning Bayesian Networks (2008), Autori: Richard E. Neapolitan, An: 2008
+Titlu: Machine Learning: A Probabilistic Perspective (2012), Autori: Kevin P. Murphy, An: 2012
+Titlu: Machine Learning for Language Processing (2018), Autori: Jurafsky, An: 2018
+Titlu: Machine Learning for Signal Processing (2022), Autori: Ian Goodfellow, An: 2022
+Titlu: Machine Learning: A Theoretical Approach (2019), Autori: T. Hastie, An: 2019
+Titlu: Neural Networks and Deep Learning (2018), Autori: Charu C. Aggarwal, An: 2018
+Titlu: Mechanics and Control, Autor: John J. Craig, An: 2023
+Titlu: Machine Learning: A Probabilistic Perspective, Autor: Kevin P. Murphy, An: 2021
+Titlu: Fundamentals of Electric Circuits, Autor: Charles K. Alexander, An: 2022
+Titlu: Deep Learning, Autor: Ian Goodfellow, An: 2024
+Titlu: Computer Networking: A Top-Down Approach, Autor: James F. Kurose, An: 2023
+Titlu: Artificial Intelligence: A Modern Approach, Autor: Stuart Russell, An: 2022
+Titlu: Digital Image Processing, Autor: Rafael C. Gonzalez, An: 2021
+Titlu: Data Mining: Concepts and Techniques, Autor: Jiawei Han, An: 2024
+Titlu: Introduction to Algorithms, Autor: Thomas H. Cormen, An: 2023
+Titlu: Control Systems Engineering, Autor: Norman S. Nise, An: 2022
+Titlu: Computer Organization and Design: The Hardware/Software Interface, Autor: David A. Patterson, An: 2021
+Titlu: Fundamentals of Power Electronics, Autor: Robert W. Erickson, An: 2023
+Titlu: Operating System Concepts, Autor: Abraham Silberschatz, An: 2024
+Titlu: Principles of Communications Systems Modulation and Noise, Autor: Rodger E. Ziemer, An: 2021
+Titlu: Introduction to Mechatronics and Measurement Systems, Autor: David G. Alciatore, An: 2022
+Titlu: An Introduction to Thermal Physics, Autor: Daniel V. Schroeder, An: 2023
+Titlu: Principles of Electric Machines and Power Electronics, Autor: P.C. Sen, An: 2024
+Titlu: Microelectronic Circuits: Theory and Applications, Autor: Adel S. Sedra, An: 2021
+Titlu: Embedded Systems: Real-Time Interfacing to the ARM Cortex-M Microcontroller, Autor: Jonathan W. Valvano, An: 2022
+Titlu: Fundamentals of Fluid Mechanics, Autor: Bruce R. Munson, An: 2023
+Titlu: Pattern Recognition and Machine Learning, Autor: Christopher M. Bishop, An: 2024
+Titlu: Digital Signal Processing: Principles Algorithms and Applications, Autor: John G. Proakis, An: 2021
+Titlu: Engineering Mechanics: Dynamics, Autor: J.L. Meriam, An: 2022
+Titlu: Modern Digital and Analog Communication Systems, Autor: B.P. Lathi, An: 2023
+Titlu: Fundamentals of Electric Power Engineering, Autor: Massimo Ceraolo, An: 2024
+Titlu: Design of Machinery, Autor: Robert L. Norton, An: 2021
+Titlu: Introduction to Materials Science for Engineers, Autor: James F. Shackelford, An: 2022
+Titlu: Engineering Electromagnetics, Autor: William H. Hayt Jr., An: 2023
+Titlu: Analog Integrated Circuit Design, Autor: Tony Chan Carusone, An: 2024
+Titlu: Engineering Vibration, Autor: Daniel J. Inman, An: 2021
+Titlu: Probability and Stochastic Processes: A Friendly Introduction for Electrical and Computer Engineers, Autor: Roy D. Yates, An: 2022
+Titlu: Fundamentals of Semiconductor Devices, Autor: Betty Lise Anderson, An: 2023
+Titlu: Introduction to Control Engineering Modeling Analysis and Design, Autor: Ajit K. Mandal, An: 2024
+Titlu: Engineering Mechanics: Statics, Autor: J.L. Meriam, An: 2021
+Titlu: Communication Systems, Autor: Simon Haykin, An: 2022
+Titlu: Electronic Devices and Circuit Theory, Autor: Robert L. Boylestad, An: 2023
+Titlu: Introduction to Finite Element Analysis Using SolidWorks Simulation, Autor: Randy Shih, An: 2024
+Titlu: Feedback Control of Dynamic Systems, Autor: Gene F. Franklin, An: 2021
+Titlu: Advanced Engineering Mathematics, Autor: Peter V. O'Neil, An: 2022
+Titlu: Optical Fiber Communications, Autor: Gerd Keiser, An: 2023
+Titlu: Electrical Engineering: Principles and Applications, Autor: Allan R. Hambley, An: 2024
+Titlu: Process Dynamics and Control, Autor: Dale E. Seborg, An: 2021
+Titlu: Digital Systems: Principles and Applications, Autor: Ronald J. Tocci, An: 2022
+Titlu: Modern Control Engineering, Autor: Katsuhiko Ogata, An: 2023
+Titlu: Mechanics of Materials, Autor: Russell C. Hibbeler, An: 2024
+Titlu: Electric Machinery Fundamentals, Autor: Stephen J. Chapman, An: 2021
+Titlu: Digital Design: Principles and Practices, Autor: John F. Wakerly, An: 2022
+Titlu: Power System Analysis and Design, Autor: J. Duncan Glover, An: 2023
+Titlu: Introduction to Robotics, Autor: Saeed B. Niku, An: 2024
+Titlu: Linear Systems and Signals, Autor: B.P. Lathi, An: 2021
+Titlu: Mechatronics: Principles and Applications, Autor: Godfrey C. Onwubolu, An: 2022
+Titlu: Fundamentals of Telecommunications, Autor: Roger L. Freeman, An: 2023
+Titlu: Engineering Economic Analysis, Autor: Donald G. Newnan, An: 2024
+Titlu: Digital Control System Analysis and Design, Autor: Charles L. Phillips, An: 2021
+Titlu: Fundamentals of Modern Manufacturing: Materials Processes and Systems, Autor: Mikell P. Groover, An: 2022
+Titlu: Introduction to Quantum Mechanics, Autor: David J. Griffiths, An: 2023
+Titlu: Antenna Theory: Analysis and Design, Autor: Constantine A. Balanis, An: 2024
+Titlu: Chemical Engineering Thermodynamics, Autor: J.M. Smith, An: 2021
+Titlu: Robotics: Modelling Planning and Control, Autor: Bruno Siciliano, An: 2022
+Titlu: Analog and Digital Communication Systems, Autor: Martin S., An: 2017
+Titlu: Fundamentals of Modern Electrical Engineering, Autor: Giorgio Rizzoni, An: 2021
+Titlu: Mechanical Engineering Design, Autor: Joseph E. Shigley, An: 2022
+Titlu: Introduction to Chemical Engineering: Tools for Today and Tomorrow, Autor: Kenneth A. Solen, An: 2023
+Titlu: Biomedical Engineering: Bridging Medicine and Technology, Autor: W. Mark Saltzman, An: 2024
+Titlu: Introduction to Computer Numerical Control, Autor: James V. Valentino, An: 2021
+Titlu: Materials Science and Engineering: An Introduction, Autor: William D. Callister Jr., An: 2022
+Titlu: An Introduction to Geotechnical Engineering, Autor: Robert D. Holtz, An: 2023
+Titlu: Principles of Environmental Engineering and Science, Autor: Mackenzie L. Davis, An: 2024
+Titlu: Introduction to Aerospace Engineering with a Flight Test Perspective, Autor: Stephen Corda, An: 2021
+Titlu: Industrial Engineering and Management, Autor: Averill M. Law, An: 2022
+Titlu: Chemical Process Safety: Fundamentals with Applications, Autor: Daniel A. Crowl, An: 2023
+Titlu: Civil Engineering Materials, Autor: Shan Somayaji, An: 2024
+Titlu: Introduction to Nuclear Engineering, Autor: John R. Lamarsh, An: 2021
+Titlu: Structural Analysis, Autor: Russell C. Hibbeler, An: 2022
+Titlu: Introduction to Petroleum Engineering, Autor: John R. Fanchi, An: 2023
+Titlu: Fundamentals of Construction Management, Autor: Abimbola Windapo, An: 2024
+Titlu: Introduction to Biomedical Engineering, Autor: John Enderle, An: 2021
+Titlu: Industrial Robotics: Programming Simulation and Applications, Autor: Harry Asada, An: 2022
+Titlu: Fundamentals of Heat and Mass Transfer, Autor: Theodore L. Bergman, An: 2023
+Titlu: Introduction to Electrical Engineering, Autor: Mulukutla S. Sarma, An: 2024
+Titlu: Introduction to Operations Research, Autor: Frederick S. Hillier, An: 2021
+Titlu: Transport Processes and Separation Process Principles, Autor: Christie John Geankoplis, An: 2022
+Titlu: Introduction to Sustainable Engineering, Autor: David R. Shonnard, An: 2023
+Titlu: Biomechanics: Principles and Applications, Autor: Donald R. Peterson, An: 2024
+Titlu: Introduction to Systems Engineering, Autor: Norman S. Nise, An: 2021
+Titlu: Robotics Vision and Control: Fundamental Algorithms in MATLAB, Autor: Peter Corke, An: 2022
+Titlu: Introduction to Mining Engineering, Autor: Hartman, An: 2023
+Titlu: Geotechnical Engineering: Principles and Practices, Autor: Donald P. Coduto, An: 2024
+Titlu: Engineering Economic Analysis, Autor: Donald G. Newnan, An: 2021
+Titlu: Introduction to Aircraft Structural Analysis, Autor: T.H.G. Megson, An: 2022
+Titlu: Water Resources Engineering, Autor: David A. Chin, An: 2023
+Titlu: Introduction to Industrial Engineering, Autor: Jane M. Fraser, An: 2024
+Titlu: Introduction to Environmental Engineering, Autor: Mackenzie Leo Davis, An: 2021
+Titlu: Advanced Mechanics of Materials and Applied Elasticity, Autor: Ansel C. Ugural, An: 2022
+Titlu: Engineering Design: A Materials and Processing Approach, Autor: George E. Dieter, An: 2023
+Titlu: Introduction to Electronic Circuits, Autor: Richard C. Dorf, An: 2024
+Titlu: Introduction to Sustainable Infrastructure Engineering: Design for Resilience, Autor: Kristina J. Thomsen, An: 2021
+Titlu: Principles of Geotechnical Engineering, Autor: Braja M. Das, An: 2022
+Titlu: Introduction to Systems Engineering, Autor: Norman S. Nise, An: 2023
+Titlu: Engineering Project Management for Manufacturing, Autor: James P. Harrington, An: 2018
+Titlu: Project Management for Engineers, Autor: Mark A. Smeltzer, An: 2014
+Titlu: The Manager's Path: A Guide for Rising Leaders, Autor: Camille Fournier, An: 2016
+Titlu: Callister's Materials Science and Engineering: An Introduction, Autor: William D. Callister Jr. și David G. Rethwisch, An: 2020
+Titlu: Introduction to Materials Science for Engineers, Autor: William D. Callister Jr. și David G. Rethwisch, An: 2021
+Titlu: Materials Science and Engineering: An Introduction, Autor: William D. Callister Jr. și David G. Rethwisch, An: 2015
+Titlu: Introduction to Robotics Mechanics and Control, Autor: John J. Craig, An: 2005
+Titlu: Robotics: Modeling Planning and Control, Autor: Bruno Siciliano, An: 2019
+Titlu: Modern Robotics: Mechanics Planning and Control, Autor: Kevin M. Lynch and Frank C. Park, An: 2009
+Titlu: Environmental Engineering, Autor: Howard S. Peavy, An: 2015
+Titlu: Introduction to Environmental Engineering, Autor: Mackenzie Davis and Frederick L. Warner, An: 2009
+Titlu: Principles of Environmental Engineering and Science, Autor: Mackenzie Davis and Frederick L. Warner, An: 2014
+Titlu: Introduction to Bioengineering, Autor: David R. Larson, An: 2012
+Titlu: Biomedical Engineering Fundamentals, Autor: Susannah Lauckner Eskandari, An: 2012
+Titlu: Essentials of Biomedical Engineering, Autor: Richard B. Northrop, An: 2014
+Titlu: Introduction to Optics, Autor: Francis A. Jenkins și Edward M. White, An: 2020
+Titlu: Modern Optical Engineering, Autor: Warren J. Smith, An: 2009
+Titlu: Handbook of Optics, Autor: Michael Bass, An: 2010
+Titlu: Nuclear Reactor Safety, Autor: Charles D. Morgan, An: 2009
+Titlu: Nuclear Reactor Engineering: Reactor Physics Design and Safety, Autor: Glenn R. Keep, An: 2021
+Titlu: Fundamentals of Nuclear Reactor Physics, Autor: Elmer E. Lewis, An: 2017
+Titlu: Orbital Mechanics for Engineering Students, Autor: Howard D. Curtis, An: 2013
+Titlu: Introduction to Flight, Autor: Arthur W. Lieske, An: 2015
+Titlu: Fundamentals of Astrodynamics and Applications, Autor: David A. Vallado, An: 2013
+Titlu: Power System Analysis and Design, Autor: J. Duncan Glover, An: 2018
+Titlu: Electric Power Systems: A Comprehensive Introduction, Autor: Leonard L. Grigsby, An: 2012
+Titlu: Power System Protection and Switchgear, Autor: J. C. Das, An: 2017
+Titlu: Mechanism Design: An Introduction, Autor: Arthur G. Erdman and Richard S. Norton, An: 2007
+Titlu: Machine Design: An Integrated Approach, Autor: Robert L. Norton, An: 2014
+Titlu: Shigley's Mechanical Engineering Design, Autor: Richard G. Budynas și J. Keith Nisbett, An: 2019
+Titlu: Tehnica Tensiunilor Înalte, Autor: Vasile Manoliu, An: 1994
+Titlu: Sisteme Electrice de Putere, Autor: colectivul catedrei de Mașini Electrice a Universității Politehnica din București, An: 2008
+Titlu: Energii Regenerabile. Tehnologii și Sisteme, Autor: Ioan Făgăraș, An: 2018
+Titlu: Mecanisme, Autor: Radu Câmpeanu, An: 1983
+Titlu: Rezistența Materialelor, Autor: Dan Bălan, An: 2005
+Titlu: Proiectarea Asistată de Calculator în Tehnologia Mașinilor, Autor: Virgil Măgureanu, An: 2011
+Titlu: Calculul Structurilor, Autor: Dimitrie Gh. Ionescu, An: 2002
+Titlu: Tehnologia Betonului, Autor: Gheorghe Bob, An: 2010
+Titlu: Instalații pentru Clădiri, Autor: Ioan Drăgoi, An: 2013
+Titlu: Operații Unitare în Industria Chimică, Autor: colectivul catedrei de Tehnologia Chimică Anorganică a Universității Politehnica din București, An: 1982
+Titlu: Procese și Aparate Chimice, Autor: Nicolae Iovu, An: 1998
+Titlu: Tehnologia Polimerilor, Autor: Maria Bruma, An: 2005
+Titlu: Limbaje de Programare, Autor: Mircea Ionescu, An: 1999
+Titlu: Structuri de Date și Algoritmi, Autor: Mihai Codoban, An: 2002
+Titlu: Inteligență Artificială, Autor: Ioan-Aurel Baniță, An: 2018
+Titlu: Calculul Matematic al Circuitelor Electrice, Autor: Prof. Univ. Dr. Ing. Ioan Boldea, An: 2007
+Titlu: Optimizarea Sistemelor Energetice, Autor: Prof. Univ. Dr. Ing. Mircea Eremia, An: 2012
+Titlu: Sisteme de Control Distribuite, Autor: Prof. Univ. Dr. Ing. Dan Popescu, An: 2015
+Titlu: Inteligență Artificială: Principii și Aplicatii, Autor: Prof. Univ. Dr. Ing. Nicolae Țăpuș, An: 2018
+Titlu: Roboți Mobili: Modele Algoritmi și Control, Autor: Prof. Univ. Dr. Ing. Radu-Emil Precup, An: 2010
+Titlu: Proiectarea și Implementarea Sistemelor Integrate, Autor: Prof. Univ. Dr. Ing. Dorel Lazăr, An: 2014
+Titlu: Mecanica Fluidelor și Tehnologia Hidraulică, Autor: Prof. Univ. Dr. Ing. Constantin Bălan, An: 2007
+Titlu: Rezistența Materialelor, Autor: Prof. Univ. Dr. Ing. Dan Bălan, An: 2005
+Titlu: Tehnica Măsurărilor Electrice și Electronice, Autor: Prof. Univ. Dr. Ing. Mircea Petrișor, An: 2017
+Titlu: Bazele Teoretice ale Electrotehnicii, Autor: Prof. Univ. Dr. Ing. Gheorghe Popescu, An: 2011

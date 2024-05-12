@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Utilizator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="{{ url_for('main.home') }}">Acasă</a></li>
+            <li><a href="{{ url_for('main.show_carti') }}">Afișare Cărți</a></li>
+            <li><a href="{{ url_for('main.update_profile') }}">Profilul meu</a></li>
+        </ul>
+    </nav>
+    <header>
+        <h1>Profilul Tău</h1>
+    </header>
+    <main>
+        <section class="profile-section">
+            <h2>Conectează-te</h2>
+            <form action="{{ url_for('main.update_profile') }}" method="post">
+                <label for="username">Nume utilizator:</label>
+                <input type="text" id="username" name="username" required>
+                
+                <label for="password">Parolă:</label>
+                <input type="password" id="password" name="password" required>
+                
+                <button type="submit">Conectare</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>Drepturi de autor © {{ current_year }} Biblioteca Virtuală</p>
+    </footer>
+    <script>
+        document.querySelector('footer p').textContent = `Drepturi de autor © ${new Date().getFullYear()} Galben Casian-Petrică`;
+    </script>
+</body>
+</html>

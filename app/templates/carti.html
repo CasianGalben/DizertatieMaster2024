@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listă Cărți</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Cărți Disponibile</h1>
+    </header>
+    <main>
+        <section class="card-container">
+            {% for carte in carti %}
+            <a href="{{ url_for('main.detalii_carte', id_carte=carte.id) }}" class="card">
+                <article>
+                    <h3>{{ carte.titlu }}</h3>
+                    <p>Autor: <strong>{{ carte.autor }}</strong></p>
+                    <p>Anul: <strong>{{ carte.an }}</strong></p>
+                </article>
+            </a>
+            {% else %}
+            <p>Nu există cărți disponibile.</p>
+            {% endfor %}
+        </section>
+    </main>
+    <footer>
+        <a href="/">Înapoi la pagina principală</a>
+    </footer>
+</body>
+</html>
